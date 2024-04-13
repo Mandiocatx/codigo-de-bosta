@@ -1,0 +1,67 @@
+body{
+    background: url(IMG/fundo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.logoelden{
+    width: 360px;
+    padding-left: 690px;
+    padding-right: 800px;
+    background-color: black;
+}
+h3:hover{
+    color: rgb(121, 118, 118);
+}
+h3{
+    color: white;
+}
+table{
+    margin-left: 730px;
+}
+th{
+    padding-right: 27px;
+}
+p{
+    font-size: 17px;
+    color: white;
+}
+div{
+    margin-right: 300px;
+}
+.caixapreta{
+    background-color: black;
+    opacity: 0.7;
+    border-top: 2px solid gold;
+    width: 100%;
+}
+h1{
+    color: rgb(189, 161, 7);
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logopng{
+    width: 300px;
+    margin-left: 670px;
+}
+hr{
+    color: gold;
+    margin-top: -10px;
+}
+.boss1{
+    width: 160px;
+    border: 2px solid rgb(126, 108, 8);
+    margin-left: 20px;
+    float: left;
+}
+h2{
+    color:rgb(189, 161, 7);
+    margin-left: 200px;
+}
+.boss2{
+    width: 160px;
+    border: 2px solid rgb(126, 108, 8);
+    margin-left: 20px;
+    float: left;
+}

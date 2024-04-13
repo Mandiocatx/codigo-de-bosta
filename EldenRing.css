@@ -1,0 +1,27 @@
+body{
+    background-image: url(IMG/fundoinicio.jpg);
+    mask-repeat: no-repeat;
+    background-size: cover;
+}
+.logoelden{
+    width: 360px;
+    padding-left: 700px;
+    padding-right: 800px;
+    background-color: black;
+}
+h3:hover{
+    color: rgb(121, 118, 118);
+}
+h3{
+    color: white;
+}
+table{
+    margin-left: 730px;
+}
+th{
+    padding-right: 27px;
+}
+p{
+    font-size: 17px;
+    color: white;
+}
